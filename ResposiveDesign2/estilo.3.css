@@ -1,0 +1,20 @@
+header{
+	background: url("img/bgheader.jpg");
+	height: 659px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.boton{
+	display: inline-block;
+}
+.boton a{
+	padding: 0 15px;
+	background: none;
+	color: white;
+}
+li:first-child{
+	font-weight: bold;
+}
+.mover{
+	margin-left: -40px;
+}
